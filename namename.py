@@ -1,0 +1,1 @@
+print "Shigeru Oyama";
